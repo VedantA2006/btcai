@@ -31,7 +31,7 @@ def send_telegram(msg):
 def send_telegram_alert(msg):
     send_telegram(msg)
 
-!pip install pandas numpy matplotlib seaborn scikit-learn requests --quiet
+
 
 import pandas as pd
 import numpy as np
